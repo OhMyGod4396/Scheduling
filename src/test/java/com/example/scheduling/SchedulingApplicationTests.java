@@ -38,5 +38,9 @@ class SchedulingApplicationTests {
         // 关闭线程池
         executor.shutdown();
     }
+    @Test
+    void Test(){
+        System.out.println("测试");
+    }
 
 }
