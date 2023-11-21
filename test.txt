@@ -1,0 +1,19 @@
+1 Deep dive into probabilistic machine learning 60min
+2 High-throughput single-shot multibox object detection on edge devices using FPGAS 45min
+3 Containers and the intelligent application revolution 30min
+4 AI and the future of work 45min
+5 Innovations in explainable AI in the context of real-world business applications 45min
+6 Hyperparameter Optimization in practice lightning
+7 Humanizing technology: Emotion detection from face and voice 60min
+8 Computational creativity: Making music with AI technologies 45min
+9 Show me the code 30min
+10 When machines have ideas 30min
+11 Democratizing deep reinforcement learning 45min
+12 Long-term time series forecasting with recurrent neural networks 60min
+13 AI applications, best practices, and lessons learned in the automotive domain 60min
+14 Executive Briefing: Building an AI-first enterprise culture 45min
+15 AI in personal finance: More than just chatbots 30min
+16 Deploying deep learning in the cloud 30min
+17 Distributed DNN training: Infrastructure, challenges, and lessons learned 60min
+18 Predicting the stock market using LSTMs 30min
+19 Scalable deep learning 30min
